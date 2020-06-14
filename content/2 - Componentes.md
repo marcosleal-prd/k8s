@@ -6,9 +6,9 @@ Cada cluster possui pelo menos um node (sendo recomendado pelo menos 2).
 
 Aqui está o diagrama de um cluster Kubernetes com todos os componentes ligados.
 
-| ![Architecture Of Kubernetes](../images/components-of-kubernetes.png) |
-| :----------------------------------------------------------------------------------------: |
-| *Arquitetura k8s [k8s Concepts](https://kubernetes.io/docs/concepts/overview/components/)* |
+|     ![Architecture Of Kubernetes](../images/components-of-kubernetes.png)     |
+| :---------------------------------------------------------------------------: |
+| *[Arquitetura k8s](https://kubernetes.io/docs/concepts/overview/components/)* |
 
 ## Componentes do Plano de Controle
 
