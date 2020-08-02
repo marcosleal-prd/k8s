@@ -3,18 +3,18 @@ kind: Namespace
 metadata:
   name: development
   labels:
-    name: myapp
+    team: engineering
 ---
 apiVersion: v1
 kind: Namespace
 metadata:
   name: qa
   labels:
-    name: myapp
+    team: engineering
 ---
 apiVersion: v1
 kind: Namespace
 metadata:
   name: production
   labels:
-    name: myapp
+    team: engineering
