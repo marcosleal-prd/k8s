@@ -3,4 +3,5 @@ kind: Namespace
 metadata:
   name: development
   labels:
+    name: development
     team: engineering
